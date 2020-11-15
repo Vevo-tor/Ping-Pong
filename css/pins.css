@@ -1,0 +1,18 @@
+#pin1, #pin2{
+    background-color: white;
+    width: 25px;
+    height: 150px;
+    position: absolute;
+    display: none;
+}
+#pin1{
+    float: left;
+    left: 0px;
+    top: 100px;
+}
+
+#pin2{
+    float: right;
+    right: 0px;
+    top: 100px;
+}

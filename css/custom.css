@@ -1,0 +1,16 @@
+
+body{
+    overflow: hidden;
+}
+
+.contain{
+    margin-top: 50px;
+}
+
+#winner{
+    display: none;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+

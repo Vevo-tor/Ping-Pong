@@ -1,0 +1,46 @@
+#start{
+    position: absolute;
+    margin: 0 auto;
+    color: #494949;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 25px 60px 25px 60px;
+    border: 4px solid #494949;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+    left: 43%;
+    top: 356px;
+}
+
+#start:hover {
+    color: #ffffff;
+    background: #19a107;
+    border-color: #19a107;
+    transition: all 0.4s ease 0s;
+  }
+
+  #play-again{
+    position: absolute;
+    top: 350px;
+    left: 44%;
+    margin: 0 auto;
+    color: #494949;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #ffffff;
+    padding: 25px 55px 25px 55px;
+    border: 4px solid #494949;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+
+    display: none;
+}
+
+#play-again:hover {
+    color: #ffffff;
+    background: #19a107;
+    border-color: #19a107;
+    transition: all 0.4s ease 0s;
+  }
+

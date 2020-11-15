@@ -1,0 +1,8 @@
+#table{
+    position: relative;
+    background-color: black;
+    border: 2px green solid;
+    width: 60%;
+    height:800px;
+    margin: 0 auto;
+}
